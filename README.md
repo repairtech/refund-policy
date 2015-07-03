@@ -12,7 +12,6 @@ Refund policies can be complicated and frustrating. We wanted our Refund Policy 
 
 ### Examples of partial refunds or credits we'd grant
 #### TechSuite
-- If you forgot to cancel TechSuite a year ago, and there’s been activity on your account since then, we’ll review your account usage and figure out a partial refund based on how many months you used it.
 - If we had extended downtime (multiple hours in a day, or multiple days in a month) we’d issue a partial credit to your account.
 
 #### Kabuto
