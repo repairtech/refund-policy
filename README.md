@@ -15,7 +15,6 @@ Refund policies can be complicated and frustrating. We wanted our Refund Policy 
 - If we had extended downtime (multiple hours in a day, or multiple days in a month) we’d issue a partial credit to your account.
 
 #### Kabuto
-- If monitoring is cancelled on a computer partway through the billing period, we'd issue a partial credit to your account.
 - If the account's plan is downgraded in the middle of the year, the appropriate difference in price would be applied as credit. 
 
 ### Have Questions?
